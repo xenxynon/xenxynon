@@ -1,3 +1,7 @@
-## Random Stats ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xenxynon&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenxynon&hide=prs&show_icons=true&theme=buefy)
+### joe mama ###
+
+<p align="center"> <img src="nyan.gif" alt="me!"/></p>
+<h3 align="center"> Hi there, Mayur. </h3>
+<p align="center">
+  16 Y.O from India, trying to learn about Android 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xenxynon&style=flat-square" alt="xenxynon" /> </p>
