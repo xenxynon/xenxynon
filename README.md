@@ -10,5 +10,5 @@
 <h2 align="center">Top Languages</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenxynon&layout=compact&langs_count=10&theme=dracula&custom_title=Top Languages" alt="Top Languages" /></a></p>
 
-<h2 align="center">Weekly Top Languages</h2>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/?username=xenxynon&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
+<h2 align="center">Stats</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/?username=xenxynon&layout=compact&langs_count=10&theme=dracula&custom_title=Weekly Top Languages" alt="My stats" /></a></p>
