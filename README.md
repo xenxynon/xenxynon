@@ -1,11 +1,11 @@
 ### Hi there, I'm Mayur.
 ###
-<img align="right" src="profile-3d-contrib/profile-south-season-animate.svg" />
-ㅤ
-ㅤ
+<!-- METRICS -->
+![Metrics](https://metrics.lecoq.io/xenxynon?template=classic&isocalendar=1&languages=1&activity=1&followup=1&stars=1&repositories=1&config.timezone=Asia/Kolkata)
 
-![stats](https://github-readme-stats.vercel.app/api?username=xenxynon&hide=prs&show_icons=true&theme=buefy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenxynon&theme=github-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xenxynon)](https://git.io/streak-stats)
+<!-- STREAK + STATS -->
+![Streak](https://streak-stats.demolab.com?user=xenxynon&theme=dark&hide_border=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xenxynon&style=flat-square" alt="xenxynon" /> </p>
